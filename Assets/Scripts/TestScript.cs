@@ -11,6 +11,7 @@ public class TestScript : MonoBehaviour
         Debug.Log("こんにちは");
         Debug.Log("MUGです");
         Debug.Log("電池です");
+        Debug.Log("よもぎーまです");
     }
 
     // Update is called once per frame
